@@ -1,0 +1,71 @@
+*{
+    background-color: black;
+    color: white;
+}
+.Links{
+    word-spacing: 19px;
+    margin-left: 1360px;
+    margin-top: -65px;
+}
+h1{
+    color: thistle;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.Links a:hover{
+    color: thistle;
+}
+nav{
+    position: sticky;
+}
+.div{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: thistle ;
+    font-size: 50px; 
+     
+}
+.intro{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    margin-top: -75px;
+}
+.line{
+    margin-top: -40px;
+    font-size: 50px;
+}
+.button{
+    border-radius: 10px;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: none;
+    margin-left: 80px;
+    position: fixed;
+}
+.button a{
+    color: rgb(181, 54, 96);
+    font-size: 20px;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: black;
+    border: 1px solid white;
+}
+.button:hover a{
+    color: white;
+}
+img{
+    margin-left: 1200px;
+    margin-top: -250px;
+    
+}
+
